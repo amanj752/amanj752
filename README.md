@@ -8,6 +8,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Internships
 - 📫 How to reach me: <a href="www.linkedin.com/in/amanj752">Linkdln</a>
+- <img src="https://media.giphy.com/media/VLwg2KLmRcMwjqW3hD/giphy.gif">
 
 <!--
 **amanj752/amanj752** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
