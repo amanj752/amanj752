@@ -1,5 +1,7 @@
 ### Hi there 👋
     <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/VLwg2KLmRcMwjqW3hD" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/VLwg2KLmRcMwjqW3hD">via GIPHY</a></p>
+    <iframe src="https://giphy.com/embed/VLwg2KLmRcMwjqW3hD" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    <img src="https://giphy.com/embed/VLwg2KLmRcMwjqW3hD">
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Frontend Web Development
