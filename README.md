@@ -1,5 +1,5 @@
 ### Hi there 👋
-- <img style="width:100%" height="auto"; src="https://media.giphy.com/media/VLwg2KLmRcMwjqW3hD/giphy.gif">
+- <img src="https://media.giphy.com/media/VLwg2KLmRcMwjqW3hD/giphy.gif">
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Frontend Web Development
