@@ -1,4 +1,5 @@
 ### Hi there 👋
+    https://media.giphy.com/media/VLwg2KLmRcMwjqW3hD/giphy.gif
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Frontend Web Development
