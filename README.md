@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Frontend Web Development
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Internships
-- 📫 How to reach me: www.linkedin.com/in/amanj752
+- 📫 How to reach me: <a href="www.linkedin.com/in/amanj752">Linkdln</a>
 
 <!--
 **amanj752/amanj752** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
