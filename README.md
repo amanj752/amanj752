@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Frontend Web Development
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Internships
-- 📫 How to reach me: <br><a href="https://www.linkedin.com/in/amanj752"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+- 📫 How to reach me: <br><a href="amanj752"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <h1>My Skills:</h1>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
