@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanj752" alt="amanj752" /></a> </p>
 
+[![YouTube: VidyaMitram](https://img.shields.io/youtube/channel/subscribers/UCQyqm8kheP4cQg_LfEcCVdw?style=plastic)](https://www.youtube.com/channel/UCQyqm8kheP4cQg_LfEcCVdw)
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **VidyaMitram**
