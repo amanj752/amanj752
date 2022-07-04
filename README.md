@@ -25,11 +25,11 @@
 <a href="https://leetcode.com/aman_j752/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aman_j752" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanj752&" alt="amanj752" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanj752&show_icons=true&locale=en" alt="amanj752" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanj752&show_icons=true&locale=en&layout=compact" alt="amanj752" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanj752&" alt="amanj752" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanj752" alt="amanj752" /></a> </p>
 
